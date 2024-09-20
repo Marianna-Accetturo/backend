@@ -1,0 +1,502 @@
+[
+  {
+    "eventType": "Concerti",
+    "cardContent": [
+      {"id":50,
+            "title":"Tedua",
+            "date": "2024-07-22",
+            "location": "Catania",
+            "info": "apertura delle porte alle 21",
+            "artwork":"https://www.teatro.it/images/spettacoli/40218/main-image/teatro.it-tedua-il-paradiso-atto-finale-concerto-date-biglietti-02.jpg",
+            "booked_users":[],
+            "biglietti":"15000"
+        },
+      {
+        "id":49,
+            "title":"Tedua",
+            "date": "2024-07-24",
+            "location": "Molfetta",
+            "info": "apertura delle porte alle 21",
+            "artwork":"https://www.teatro.it/images/spettacoli/40218/main-image/teatro.it-tedua-il-paradiso-atto-finale-concerto-date-biglietti-02.jpg",
+            "booked_users":[],
+            "biglietti":"15000"
+        },
+        {
+          "id":10,
+          "title":"Alfa",
+          "date": "2024-11-19",
+          "location": "PalaFlorio, Bari",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.ansa.it/webimages/img_700/2024/3/21/915a184520e3275f3efbb24693605340.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":11,
+          "title":"Alfa",
+          "date": "2024-11-16",
+          "location": "Palazzo dello sport, Roma",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.ansa.it/webimages/img_700/2024/3/21/915a184520e3275f3efbb24693605340.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":12,
+          "title":"Alfa",
+          "date": "2024-11-20",
+          "location": "Palapartenope, Napoli",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.ansa.it/webimages/img_700/2024/3/21/915a184520e3275f3efbb24693605340.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":54,
+          "title":"Alfa",
+          "date": "2024-11-25",
+          "location": "Unipol Forum, Miilano",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.ansa.it/webimages/img_700/2024/3/21/915a184520e3275f3efbb24693605340.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":35,
+          "title":"Calcutta",
+          "date": "2024-06-28",
+          "location": "Bari",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40372/main-image/teatroit-calcutta-relax-tour-estivo-2024-date-biglietti.jpg",
+        "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":36,
+          "title":"Calcutta",
+          "date": "2024-06-26",
+          "location": "Servigliano",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40372/main-image/teatroit-calcutta-relax-tour-estivo-2024-date-biglietti.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":37,
+          "title":"Calcutta",
+          "date": "2024-07-05",
+          "location": "Alba",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40372/main-image/teatroit-calcutta-relax-tour-estivo-2024-date-biglietti.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":38,
+          "title":"Calcutta",
+          "date": "2024-07-07",
+          "location": "Ferrara",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40372/main-image/teatroit-calcutta-relax-tour-estivo-2024-date-biglietti.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":39,
+          "title":"Calcutta",
+          "date": "2024-07-17",
+          "location": "Milano",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40372/main-image/teatroit-calcutta-relax-tour-estivo-2024-date-biglietti.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":40,
+          "title":"Calcutta",
+          "date": "2024-07-20",
+          "location": "Alghero",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40372/main-image/teatroit-calcutta-relax-tour-estivo-2024-date-biglietti.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":41,
+          "title":"Calcutta",
+          "date": "2024-07-28",
+          "location": "Capaccio Paestum",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40372/main-image/teatroit-calcutta-relax-tour-estivo-2024-date-biglietti.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":42,
+          "title":"Tedua",
+          "date": "2024-07-24",
+          "location": "Molfetta",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40218/main-image/teatro.it-tedua-il-paradiso-atto-finale-concerto-date-biglietti-02.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":43,
+          "title":"Tedua",
+          "date": "2024-07-03",
+          "location": "Lucca",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40218/main-image/teatro.it-tedua-il-paradiso-atto-finale-concerto-date-biglietti-02.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":44,
+          "title":"Tedua",
+          "date": "2024-07-07",
+          "location": "Alba",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40218/main-image/teatro.it-tedua-il-paradiso-atto-finale-concerto-date-biglietti-02.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":45,
+          "title":"Tedua",
+          "date": "2024-07-06",
+          "location": "Ferrara",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40218/main-image/teatro.it-tedua-il-paradiso-atto-finale-concerto-date-biglietti-02.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":46,
+          "title":"Tedua",
+          "date": "2024-07-17",
+          "location": "Alghero",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40218/main-image/teatro.it-tedua-il-paradiso-atto-finale-concerto-date-biglietti-02.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":47,
+          "title":"Tedua",
+          "date": "2024-07-20",
+          "location": "Capaccio Paestum",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40218/main-image/teatro.it-tedua-il-paradiso-atto-finale-concerto-date-biglietti-02.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        },
+        {
+          "id":48,
+          "title":"Tedua",
+          "date": "2024-07-27",
+          "location": "Roma",
+          "info": "apertura delle porte alle 21",
+          "artwork":"https://www.teatro.it/images/spettacoli/40218/main-image/teatro.it-tedua-il-paradiso-atto-finale-concerto-date-biglietti-02.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+        }
+    ]
+  },
+  {
+    "eventType": "Film",
+    "cardContent": [
+      {
+        "id": 71,
+    "title": "The Fast and the Furious",
+    "date": " 2024-11-23",
+    "location": "Cinema di Bari, Bari",
+    "info": "Regista:Rob Cohen, trama: Brian O'Conner (Paul Walker) è un agente della polizia di Los Angeles (LAPD), infiltrato con lo pseudonimo di Brian Spilner in una banda che opera nel settore delle gare clandestine. Il capo della banda è Dominic Toretto (Vin Diesel), un campione di gare di auto e criminale fuggitivo. Brian fa presto a conquistare la fiducia di Dom e la sorella di quest'ultimo, Mia. La banda ha bisogno di assalire e rapinare camion per riuscire a sostenere gli ingenti costi dei pezzi di ricambio e delle elaborazioni per i loro bolidi da corsa, il compito di O'Conner sarà quello di riuscire a incastrare i vertici dell'organizzazione. Qualcosa va storto e Brian, per salvare la vita ai suoi nuovi amici, è costretto a liberarli svelando il suo vero lavoro e perdendo la loro fiducia, inoltre nel far ciò diventa a sua volta ricercato.",
+    "artwork": "https://i.ebayimg.com/images/g/WFsAAOSwlRdgWV~4/s-l1600.jpg",
+    "booked_users":[],
+          "biglietti":"15000"
+        
+        },
+      {
+          "id": 55,
+          "title": "The Fast and the Furious: Tokyo Drift",
+          "date": " 2024-09-26",
+          "location": "Cinema di Barletta, Barletta",
+          "info": "Regista:Justin Lin, trama:Sean Boswell è un ragazzo che cerca di affermarsi come pilota nelle corse automobilistiche illegali. Dopo l'ennesima corsa illegale, stavolta in un cantiere, la madre lo spedisce in Giappone da suo padre, un militare in carriera di stanza a Tokyo, per evitargli di finire in riformatorio. Etichettato come gaijin (straniero) ed emarginato poiché non conosce una parola di giapponese, non impiega molto a trovare come amico un ragazzo americano, Twinkie, che lo introduce nel mondo sotterraneo del drifting. Sean provoca il nipote di un boss locale, D.K., e viene da questi sfidato a una gara di drifting. Per vincere viene quindi addestrato da Han Lue, un ex membro del team di Dominic Toretto nonché socio di D.K.",
+          "artwork": "https://pad.mymovies.it/filmclub/2006/06/129/locandina.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+      },
+      {
+          "id": 63,
+          "title": "Fast & Furious",
+          "date": " 2024-09-14",
+          "location": "Cinema di Napoli, Napoli",
+          "info": "Regista:Justin Lin, trama:Brian O'Conner, dopo essere stato reintegrato nell'FBI, torna nuovamente sotto copertura per infiltrarsi nella banda di un pericoloso trafficante di droga di Los Angeles noto come Braga. Per questa nuova missione Brian dovrà fare coppia proprio con colui che aveva ingannato cinque anni prima: Dominic Toretto. Dom, scoprendo la morte della sua fidanzata Letty (della quale è responsabile Fenix, scagnozzo di Braga), si prepara alla vendetta insieme a Brian. Dovranno quindi incastrare Braga con l'aiuto di un informatore, David Park, che li farà entrare nel giro delle corse clandestine. Ambientato tra Los Angeles e il deserto messicano, questo quarto capitolo della serie riporta insieme sullo schermo Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster e Sung Kang nel ruolo di Han Lue.",
+          "artwork": "https://i.ebayimg.com/images/g/u~kAAOSwdctj1rC~/s-l1200.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+      },
+      {
+          "id": 64,
+          "title": "Fast Five",
+          "date": " 2024-11-22",
+          "location": "Cinema di Bari, Bari",
+          "info": "Regista:Justin Lin trama:Dopo aver impedito l'arrivo dell'autobus al carcere di massima sicurezza, Mia Toretto e l'ex agente federale Brian O'Conner scappano in Brasile liberando Dominic Toretto. Là, durante una rapina a un treno, rincontrano Vince (componente della banda di Toretto nel primo film della serie, nonché migliore amico sin d'infanzia di Dom) e scoprono che il mandante del furto è un ricco affarista di Rio De Janeiro, Hernan Reyes, interessato a recuperare un chip nascosto nell'autoradio di una macchina rubata precedentemente, la quale contiene tutti i dati dei suoi traffici illeciti da centinaia di milioni di dollari. A causa del furto al treno, Toretto e O'Conner vengono braccati dall'agente Luke Hobbs. Dom e Brian decidono di utilizzare le informazioni del chip per fare un ultimo colpo e derubare tutte le finanze di Reyes. Ma per compiere tutto questo hanno bisogno di formare una nuova squadra con i lori amici apparsi nei precedenti capitoli: Roman Pearce, Tej Parker, Han Lue, Gisele Yashar, Rico Santos, Tego Leo.",
+          "artwork": "https://m.media-amazon.com/images/I/9130NhhqEpL._AC_UF1000,1000_QL80_.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+      },
+      {
+          "id": 65,
+          "title": "Fast & Furious 6",
+          "date": " 2024-11-13",
+          "location": "Cinema di Bari, Bari",
+          "info": "Regista:Justin Lin, trama:L'agente Luke Hobbs è all'inseguimento di un'organizzazione internazionale di mercenari criminali, la cui mente, Owen Shaw, è aiutata dal suo caparbio e determinato locationtenente che si rivela essere Letty, creduta morta da Dom. L'unico modo per fermare la squadra di criminali è quello di batterli sulla strada, così Hobbs chiede a Dom di rimettere insieme la propria squadra e di recarsi a Londra per unirsi a lui nella caccia a Owen Shaw. In cambio Hobbs promette l'amnistia a Dom e ai suoi in modo da poter tornare a casa con le proprie famiglie.",
+          "artwork": "https://pad.mymovies.it/filmclub/2011/06/227/locandina.jpg",
+          "booked_users":[],
+          "biglietti":"15000"
+      },
+              {
+                "id":66,
+                "title": "Furious 7",
+                "date":" 2024-11-15",
+                "location": "Cinema di Napoli, Napoli",
+                "info": "Regista: James Wan, trama:Dopo aver ferito in modo grave Owen Shaw e aver ucciso tutti i membri della sua squadra di mercenari nel sesto film, Dom, Brian e la loro squadra sono in grado di ritornare negli Stati Uniti e vivere di nuovo la vita normale come avevano desiderato. Ma il fratello maggiore di Owen, Deckard Shaw (Jason Statham) alle spalle di Dom, cerca vendetta per il ferimento di suo fratello, e dopo la morte di Han in The Fast and the Furious: Tokyo Drift, l'equipaggio stabilisce di fermare l'uomo che ha ucciso uno di loro prima che lui li trovi per primi.[11]",
+                "artwork": "https://mr.comingsoon.it/imgdb/locandine/big/49946.jpg",
+                "booked_users":[],
+          "biglietti":"15000"
+           },
+           {
+                "id":67,
+                "title": "The Fate of the Furious",
+                "date":" 2025-05-17",
+                "location": "Cinema di Napoli, Napoli",
+                "info": "Regista: F. Gary Gray, trama: Con Dom e Letty in luna di miele e la partenza di Brian e Mia, la squadra sembra aver finalmente trovato la tranquillità tanto desiderata. Ma ovviamente i guai sono dietro l'angolo, e questa volta si manifestano sotto le spoglie della bella e letale Cipher, una spietata terrorista, che riesce a spezzare l'equilibrio della squadra trascinando Dominic dalla sua parte. Per riportarlo alla ragione, Letty, Hobbs e gli altri saranno costretti a chiedere aiuto ad una loro vecchia nemesi, Deckard Shaw.",
+             "artwork": "https://pad.mymovies.it/filmclub/2015/05/205/locandina.jpg",
+             "booked_users":[],
+          "biglietti":"15000"
+              },
+              {
+                "id":68,
+                "title": "F9: The Fast Saga",
+                "date":" 2024-11-21",
+                "location": "Cinema di Napoli, Napoli",
+                "info": "Regista: Justin Lin, trama: Dom Toretto conduce una vita tranquilla insieme a Letty e a suo figlio, il piccolo Brian, ma non sa che il pericolo è sempre in agguato. Questa volta, una nuova minaccia costringerà Dom a confrontarsi con il suo passato.",
+                "artwork": "https://i.ebayimg.com/images/g/yyYAAOSwnNZhG4Ls/s-l400.jpg",
+                "booked_users":[],
+          "biglietti":"15000"
+              },
+              {
+                "id":69,
+                "title": "Mission: Impossible - Ghost Protocol",
+                "date":" 2024-11-01",
+                "location": "Cinema di Barletta, Barletta",
+                "info": "Regista: Brad Bird, trama: Dopo essere stati accusati di un attacco terroristico al Cremlino, l'IMF viene sciolto e il suo team viene costretto ad agire sotto copertura per pulire il loro title. Con il mondo intero che li considera dei traditori, Ethan Hunt e il suo team devono fermare un terrorista nucleare e prevenire una catastrofe globale.",
+                "artwork": "https://m.media-amazon.com/images/I/912EjjYBSTL._AC_UF1000,1000_QL80_.jpg",
+                "booked_users":[],
+          "biglietti":"15000"
+              },
+                {
+                    "id": 14,
+                    "title": "A Walk to Remember",
+                    "date":" 2025-02-22",
+                    "location": "Cinema di Bari, Bari",
+                    "info": "Regista: Adam Shankman, trama:Landon è uno studente di liceo in una piccola cittadina della provincia americana: frequenta un gruppo di compagni di scuola svogliati e fannulloni, che spesso si divertono a prendersi gioco di Jamie, la figlia del pastore. Le cose cambiano quando Landon si innamora della ragazza, tranquilla e profondamente religiosa, apparentemente cosi diversa da lui.",
+                    "artwork": "https://mr.comingsoon.it/imgdb/locandine/big/38583.jpg",
+                    "booked_users":[],
+          "biglietti":"15000"
+                },
+                {
+                    "id": 15,
+                    "title": "Dear John",
+                    "date":" 2024-10-25",
+                    "location": "Cinema di Barletta, Barletta",
+                    "info": "Regista: Lasse Hallström, trama: Sulle spiagge dell'Atlantico, una studentessa e un soldato si giurano amore eterno, ma qualcosa sta per cambiare per sempre la storia degli Stati Uniti.",
+                    "artwork": "https://nientepopcorn.b-cdn.net/film-img/22971-locandina-big.jpg",
+                    "booked_users":[],
+          "biglietti":"15000"
+                },
+                {
+                    "id": 16,
+                    "title": "The Last Song",
+                    "date":" 2024-10-02",
+                    "location": "Cinema di Barletta, Barletta",
+                    "info": "Regista:Julie Anne Robinson, trama:Una giovane ribelle è costretta a passare l'estate con suo padre. Durante questo periodo, scopre l'amore e riallaccia il rapporto con il padre.",
+                    "artwork": "https://pad.mymovies.it/filmclub/2009/11/235/locandina.jpg",
+                    "booked_users":[],
+          "biglietti":"15000"
+                },
+                {
+                    "id": 17,
+                    "title": "The Lucky One",
+                    "date":" 2025-01-12",
+                    "location": "Cinema di Barletta, Barletta",
+                    "info": "Regista:Scott Hicks,trama: Logan Thibault, un marine sopravvissuto a tre missioni in Iraq, attribuisce la propria buona sorte alla foto di una donna che non ha mai incontrato, ma che porta sempre con sè.",
+                    "artwork": "https://www.filmtv.it/imgbank/GALLERYXL/HO/04741814.JPG",
+                    "booked_users":[],
+          "biglietti":"15000"
+                },
+                {
+                    "id": 18,
+                    "title": "Safe Haven",
+                    "date":" 2025-01-13",
+                    "location": "Cinema di Bari, Bari",
+                    "info": "Regista Lasse Hallström,trama: Katie, una giovane donna dal passato misterioso, arriva nella piccola cittadina di Southport nel North Carolina. E' schiva, riluttante ad integrarsi con la comunità locale, e questo suo atteggiamento solleva, tra la gente, domande e dubbi sul suo passato. La donna cambia quando conosce Alex, proprietario di un negozio, vedovo e padre di due figli piccoli. Un oscuro segreto che continua a tormentarla la costringe però a fare una scelta importante e definitiva.",
+                    "artwork": "https://mr.comingsoon.it/imgdb/locandine/big/49282.jpg",
+                    "booked_users":[],
+          "biglietti":"15000"
+                },
+                {
+                    "id": 19,
+                    "title": "The Best of Me",
+                    "date":" 2025-02-14",
+                    "location": "Cinema di Napoli, Napoli",
+                    "info": "Regista Michael Hoffman,trama: Il funerale di un amico comune riunisce una coppia di vecchi compagni di scuola, che si riscopre innamorata nonostante siano passati 20 anni.",
+                    "artwork": "https://mr.comingsoon.it/imgdb/locandine/big/51148.jpg",
+                    "booked_users":[],
+          "biglietti":"15000"
+                },
+                {
+                    "id": 20,
+                    "title": "The Longest Ride",
+                    "date":" 2024-11-15",
+                    "location": "Cinema di Napoli",
+                    "info": "Regista: George Tillman Jr.,trama: Le vite di un giovane cowboy e una studentessa si intrecciano con quelle di una coppia più anziana attraverso una serie di lettere e memorie.",
+                    "artwork": "https://m.media-amazon.com/images/I/51v0E3x0YiL._AC_UF1000,1000_QL80_.jpg",
+                    "booked_users":[],
+          "biglietti":"15000"
+                },
+                {
+                    "id": 21,
+                    "title": "The Choice",
+                    "date":" 2025-01-16",
+                    "location": "Cinema di Barletta",
+                    "info": "Regista: Ross Katz, trama:Due vicini di casa iniziano una relazione che viene messa alla prova da una serie di eventi drammatici e devono fare scelte che cambieranno per sempre le loro vite.",
+                    "artwork": "https://mr.comingsoon.it/imgdb/locandine/big/53004.jpg",
+                    "booked_users":[],
+          "biglietti":"15000"
+                },
+                {
+                    "id": 22,
+                    "title": "Nights in Rodanthe",
+                    "date":" 2025-01-08",
+                    "location": "Cinema di Bari",
+                    "info": "Regista:George C. Wolfe, trama: Due estranei trovano conforto l'uno nell'altro durante un fine settimana tempestoso in una locanda sulla spiaggia, cambiando le loro vite per sempre.",
+                    "artwork": "https://mr.comingsoon.it/imgdb/locandine/big/1500.jpg",
+                    "booked_users":[],
+          "biglietti":"15000"
+                },
+                {
+                      "id": 23,
+                      "title": "Cloverfield",
+                      "date":" 2025-03-08",
+                      "location": "Cinema di Bari",
+                      "info": "Regista Matt Reeves,trama: Un gruppo di amici lotta per sopravvivere quando un mostro gigantesco attacca New York City, il tutto documentato attraverso le loro riprese video amatoriali.",
+                      "artwork": "https://m.media-amazon.com/images/I/51kUTYCPHtL._AC_UF1000,1000_QL80_.jpg",
+                      "booked_users":[],
+          "biglietti":"15000"
+                  },
+                  {
+                      "id": 24,
+                      "title": "Let Me In",
+                      "date":"2024-10-01",
+                      "location": "Cinema di Barletta",
+                      "info": "Regista:Matt Reeves,trama:Un ragazzo solitario fa amicizia con una giovane vampira che si è appena trasferita nel suo quartiere, e deve affrontare le conseguenze di questa relazione unica.",
+                      "artwork": "https://upload.wikimedia.org/wikipedia/en/5/53/Let_Me_In_Poster.jpg",
+                      "booked_users":[],
+          "biglietti":"15000"
+                  },
+                  {
+                      "id": 25,
+                      "title": "Dawn of the Planet of the Apes",
+                      "date":"2024-12-24",
+                      "location": "Cinema di Napoli",
+                      "info": "Regista:Matt Reeves,trama:Un decennio dopo che un virus ha decimato la popolazione umana, una nazione emergente di scimmie geneticamente evolute guidate da Cesare è minacciata da un gruppo di sopravvissuti umani.",
+                      "artwork": "https://m.media-amazon.com/images/I/81aSfdxbYOL._AC_UF1000,1000_QL80_.jpg",
+                      "booked_users":[],
+          "biglietti":"15000"
+                  },
+                  {
+                      "id": 26,
+                      "title": "War for the Planet of the Apes",
+                      "date":"2025-01-17",
+                      "location": "Cinema di Barletta",
+                      "info": "Regista:Matt Reeves,trama:Cesare e le sue scimmie sono costrette in un conflitto mortale con un esercito umano guidato da un brutale colonnello, che culmina in una guerra epica che determinerà il destino delle due specie.",
+                      "artwork": "https://m.media-amazon.com/images/I/81758-nWjAL._AC_UF1000,1000_QL80_.jpg",
+                      "booked_users":[],
+          "biglietti":"15000"
+                  },
+                    {
+                        "id": 28,
+                        "title": "The Avengers",
+                        "date":"2024-12-15",
+                        "location": "Cinema di Napoli",
+                        "info": "Regista:Joss Whedon,trama: Nick Fury dei S.H.I.E.L.D. mette insieme un team di supereroi per formare gli Avengers e salvare il pianeta dalla minaccia di Loki e il suo esercito alieno.",
+                        "artwork": "https://m.media-amazon.com/images/I/71Sb4AfzGTL._AC_UF1000,1000_QL80_.jpg",
+                        "booked_users":[],
+          "biglietti":"15000"
+                    },
+                    {
+                        "id": 29,
+                        "title": "Avengers: Infinity War",
+                        "date":"2025-01-18",
+                        "location": "Cinema di Barletta",
+                        "info": "Regista: Anthony Russo, Joe Russo,trama: Gli Avengers e i loro alleati devono essere disposti a sacrificare tutto nel tentativo di sconfiggere il potente Thanos prima che la sua campagna di devastazione e rovina metta fine all'universo.",
+                        "artwork": "https://m.media-amazon.com/images/I/81AsojVUs8L._AC_UF1000,1000_QL80_.jpg",
+                        "booked_users":[],
+          "biglietti":"15000"
+                    },
+                    {
+                          "id": 30,
+                          "title": "Harry Potter e la pietra filosofale",
+                          "date":"2024-12-01",
+                          "location": "Cinema di Bari",
+                          "info": "Regista:Chris Columbus,trama: A 11 anni, Harry Potter scopre di essere il figlio orfano di due potenti maghi. Frequenta la scuola di magia e stregoneria di Hogwarts dove scopre la verità su se stesso e sulla morte dei suoi genitori.",
+                          "artwork": "https://m.media-amazon.com/images/I/81q77Q39nEL._AC_UF1000,1000_QL80_.jpg",
+                          "booked_users":[],
+          "biglietti":"15000"
+                      },
+                      {
+                          "id": 31,
+                          "title": "Harry Potter e la camera dei segreti",
+                          "date":"2024-11-02",
+                          "location": "Cinema di Napoli",
+                          "info": "Regista:Chris Columbus,trama: Il secondo anno ad Hogwarts si rivela denso di pericoli per Harry Potter e i suoi amici: un mostro misterioso si aggira per la scuola pietrificando i maghi mezzosangue figli di babbani, e tutti incolpano Harry.",
+                          "artwork": "https://m.media-amazon.com/images/I/818umIdoruL._AC_UF1000,1000_QL80_.jpg",
+                          "booked_users":[],
+          "biglietti":"15000"
+                      },
+                      {
+                          "id": 32,
+                          "title": "Harry Potter e il prigioniero di Azkaban",
+                          "date":"2025-04-11",
+                          "location": "Cinema di Barletta",
+                          "info": "Regista:Alfonso Cuarón,trama:Harry Potter sta frequentando il terzo anno a Hogwarts e questa volta deve difendersi da un pericoloso assassino, Sirius Black, scappato dalla sorvegliata prigione per maghi di Azkaban e legato alla famiglia del piccolo mago.",
+                          "artwork": "https://www.ibs.it/images/9788831003407_0_536_0_75.jpg",
+                          "booked_users":[],
+          "biglietti":"15000"
+                      },
+                      {
+                          "id": 33,
+                          "title": "Harry Potter and the Goblet of Fire",
+                          "date":"2025-01-05",
+                          "location": "Cinema di Bari",
+                          "info": "Regista:Mike Newell, trama:Il quarto anno di Harry a Hogwarts è contrassegnato dal torneo di Tremaghi, nel quale i rappresentanti di ogni scuola di magia devono sfidarsi in alcune gare",
+                          "artwork": "https://m.media-amazon.com/images/I/81zeKRGCPpL._AC_UF1000,1000_QL80_.jpg",
+                          "booked_users":[],
+          "biglietti":"15000"
+                      },
+                      {
+                          "id": 34,
+                          "title": "Harry Potter and the Order of the Phoenix",
+                          "date":"2024-11-07",
+                          "location": "Cinema di Bari",
+                         "info":"Regista:David Yates,trama: Mentre si trova confinato contro la sua volontà a Privet Drive, Harry scopre che Albus Silente è a capo di una organizzazione segreta che ha il compito di contrapporsi a Lord Voldemort per sconfiggerlo.",
+                        "artwork": "https://static.posters.cz/image/750/69610.jpg",
+                        "booked_users":[],
+          "biglietti":"15000"
+                      }
+    ]
+  }
+]

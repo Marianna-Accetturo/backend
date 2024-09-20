@@ -1,0 +1,38 @@
+[{    "type":"concerto",
+     "title":"Tedua",
+     "date": "2024-09-22",
+     "location": "Catania",
+     "artwork":"https://www.teatro.it/images/spettacoli/40218/main-image/teatro.it-tedua-il-paradiso-atto-finale-concerto-date-biglietti-02.jpg"
+            
+},
+{    "type":"film",
+     "title":"La maledizione",
+     "date": "2024-09-22",
+     "location": "Cinema di Bari, Bari",
+     "artwork":"https://www.ibs.it/images/8033109401760_0_200_0_75.jpg"
+},
+{"type":"film",
+     "title":"Inside Out2",
+     "date": "2024-09-02",
+     "location":"Cinema di Bari, Bari",
+     "artwork":"https://www.officinema.it/wp-content/uploads/inside-out-2-teaser-1024x576-1-1864x1048.jpeg"
+},
+{"type":"film",
+     "title":"Inside Out",
+     "date": "2024-09-02",
+     "location": "Cinema di Foggia, Foggia",
+     "artwork":"https://pad.mymovies.it/filmclub/2011/08/107/locandina.jpg"
+},
+{"type":"Concerto",
+     "title":"Gemitaiz",
+     "date": "2024-09-18",
+     "location": "Napoli",
+     "artwork":"https://www.ticketone.it/obj/media/IT-eventim/teaser/222x222/2024/gemitaiz-biglietti.jpg"
+},
+{"type":"Concerto",
+     "title":"Blanco",
+     "date": "2024-08-04",
+     "location": "Gallipoli",
+     "artwork":"https://www.ticketone.it/obj/media/IT-eventim/galery/222x222/b/blanco-biglietti.jpg"
+}
+]
